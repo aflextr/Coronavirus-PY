@@ -1,0 +1,8 @@
+**************CORONAVİRUS WORLD CASE****************
+    1-World
+    2-italy
+    3-USA
+    4-Turkey
+    5-Other Countries
+    6-Country name
+**************CORONAVİRUS WORLD CASE****************
